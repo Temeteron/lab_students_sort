@@ -1,0 +1,57 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 4 lab sections<<
+Enter student name: 
+>>Adding student "Peter" in section 0<<
+Enter student name: 
+>>Adding student "Alice" in section 1<<
+Enter student name: 
+>>Adding student "Bob" in section 2<<
+Enter student name: 
+>>Adding student "Woodrow" in section 3<<
+Enter student name: 
+>>Adding student "Samantha" in section 0<<
+Enter student name: 
+>>Adding student "Harry" in section 1<<
+Enter student name: 
+>>Adding student "John" in section 2<<
+Enter student name: 
+>>Adding student "Zehra" in section 3<<
+Enter student name: 
+>>Adding student "Esther" in section 0<<
+Enter student name: 
+>>Adding student "Jose" in section 1<<
+
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 0...<<
+Esther...
+>>Searching section 0...<<
+
+>>Searching section 1...<<
+Alice...Harry...
+>>Adding student "Harry" in section 0<<
+
+>>Adding student "Esther" in section 1<<
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Harry	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Esther	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: 

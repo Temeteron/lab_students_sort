@@ -1,0 +1,33 @@
+17 4
+Peter Alice Bob Woodrow Samantha 
+Harry John Zehra Esther Jose
+Aroon_Pichaironnarongsongkram Kim Ng Usman Mahadev
+Tatyana Ilya
+SWAP Aroon_Pichaironnarongsongkram Woodrow
+PRINT 
+swap Kim Ng
+SWAP Kim Ilya
+PRINT
+REMOVE Samantha
+PRINT
+SWAP Samantha Usman
+PRINT
+SWAP Mahadev Peter
+PRINT
+REMOVE Jose
+PRINT
+REMOVE Mahadev
+PRINT
+REMOVE Esther
+PRINT
+REMOVE Tatyana
+PRINT
+SWAP Aroon_Pichaironnarongsongkram  Harry
+PRINT
+SWAP Harry Kim
+PRINT
+SWAP Woodrow Ng
+PRINT
+REMOVE Kim
+PRINT
+EXIT

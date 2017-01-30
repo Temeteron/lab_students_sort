@@ -1,0 +1,14 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 2 lab sections<<
+Enter student name: 
+>>Adding student "Peter" in section 0<<
+Enter student name: 
+>>Adding student "Alice" in section 1<<
+Enter student name: 
+>>Adding student "Bob" in section 0<<
+Enter student name: 
+>>Adding student "Woodrow" in section 1<<
+Enter student name: 
+>>Adding student "Samantha" in section 0<<
+Enter student name: 
+>>Adding student "Harry" in section 1<<

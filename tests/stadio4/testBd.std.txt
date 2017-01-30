@@ -1,0 +1,99 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 4 lab sections<<
+Enter student name: 
+>>Adding student "Peter" in section 0<<
+Enter student name: 
+>>Adding student "Alice" in section 1<<
+Enter student name: 
+>>Adding student "Bob" in section 2<<
+Enter student name: 
+>>Adding student "Woodrow" in section 3<<
+Enter student name: 
+>>Adding student "Samantha" in section 0<<
+Enter student name: 
+>>Adding student "Harry" in section 1<<
+Enter student name: 
+>>Adding student "John" in section 2<<
+Enter student name: 
+>>Adding student "Zehra" in section 3<<
+Enter student name: 
+>>Adding student "Esther" in section 0<<
+Enter student name: 
+>>Adding student "Jose" in section 1<<
+
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 0...<<
+Esther...Peter...Samantha...
+>>Searching section 0...<<
+Esther...Peter...
+>>Searching section 1...<<
+Alice...Harry...Jose...
+>>Searching section 2...<<
+Bob...John...
+>>Searching section 3...<<
+Woodrow...
+>>Adding student "Woodrow" in section 0<<
+
+>>Adding student "Samantha" in section 3<<
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Woodrow
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Samantha	Zehra
+========================
+Enter action: Enter name: 
+>>Searching section 0...<<
+Esther...Peter...
+>>Searching section 1...<<
+Alice...Harry...Jose...
+>>Searching section 2...<<
+Bob...John...
+>>Searching section 3...<<
+Samantha...
+>>Removed student "Samantha" from section 3<<
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Woodrow
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Zehra
+========================
+Enter action: Enter name: 
+>>Searching section 0...<<
+Esther...Peter...Woodrow...
+>>Removed student "Woodrow" from section 0<<
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Zehra
+========================
+Enter action: 

@@ -1,0 +1,61 @@
+Enter number of students: Enter maximum lab size: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	John
+*Section 3, Monday 11:00*
+	Woodrow
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Jose
+*Section 2, Monday 10:00*
+	John
+*Section 3, Monday 11:00*
+	Woodrow
+========================
+Enter action: 

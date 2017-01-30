@@ -1,0 +1,118 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 4 lab sections<<
+Enter student name: 
+>>Adding student "Peter" in section 0<<
+Enter student name: 
+>>Adding student "Alice" in section 1<<
+Enter student name: 
+>>Adding student "Bob" in section 2<<
+Enter student name: 
+>>Adding student "Woodrow" in section 3<<
+Enter student name: 
+>>Adding student "Samantha" in section 0<<
+Enter student name: 
+>>Adding student "Harry" in section 1<<
+Enter student name: 
+>>Adding student "John" in section 2<<
+Enter student name: 
+>>Adding student "Zehra" in section 3<<
+Enter student name: 
+>>Adding student "Esther" in section 0<<
+Enter student name: 
+>>Adding student "Jose" in section 1<<
+
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 0...<<
+Esther...Peter...
+>>Searching section 0...<<
+Esther...Samantha...
+>>Searching section 1...<<
+Alice...Harry...Jose...
+>>Searching section 2...<<
+Bob...John...
+>>Searching section 3...<<
+Student "Usman" not in lab. Swap canceled.
+
+>>Adding student "Peter" in section 0<<
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 0...<<
+
+>>Searching section 1...<<
+Alice...
+>>Searching section 2...<<
+
+>>Searching section 3...<<
+
+>>Searching section 0...<<
+Esther...
+>>Searching section 1...<<
+Alice...Harry...
+>>Searching section 2...<<
+Bob...John...Student "Aroon_Pichaironnarongsongkram" not in lab. Swap canceled.
+
+>>Adding student "John" in section 2<<
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 0...<<
+
+>>Searching section 1...<<
+Alice...
+>>Searching section 2...<<
+Bob...
+>>Searching section 3...<<
+
+>>Searching section 0...<<
+Esther...
+>>Searching section 1...<<
+Alice...Harry...Jose...
+>>Searching section 2...<<
+Bob...John...
+>>Searching section 3...<<
+Student "Drew" not in lab. Swap canceled.
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: 

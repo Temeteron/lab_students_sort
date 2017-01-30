@@ -1,0 +1,10 @@
+10 3
+Peter Alice Bob Woodrow Samantha 
+Harry John Zehra Esther Jose
+SWAP  Peter Usman
+PRINT
+SWAP Aroon_Pichaironnarongsongkram John
+PRINT
+SWAP Drew Josh
+PRINT
+EXIT

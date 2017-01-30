@@ -1,0 +1,6 @@
+Enter number of students: Enter maximum lab size: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Ali	Alice	Anandavenkatakrishnan	Anna	Aroon_Pichaironnarongsongkram	Bob	Bob_Lee	Esther	Harry	Ivan	John	Jose	Mary_Ann	Peter	Pierre	Samantha	Tatyana	Usman	Woodrow	Zehra
+========================

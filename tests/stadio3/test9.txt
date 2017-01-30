@@ -1,0 +1,7 @@
+10 3
+Peter Alice Bob Woodrow Samantha 
+Harry John Zehra Esther Jose
+HAHA
+SWAP  Samantha Woodrow
+PRINT
+EXIT

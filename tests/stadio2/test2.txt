@@ -1,0 +1,2 @@
+6 3
+Peter Alice Bob Woodrow Samantha Harry 

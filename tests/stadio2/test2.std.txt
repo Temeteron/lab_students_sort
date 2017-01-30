@@ -1,0 +1,8 @@
+Enter number of students: Enter maximum lab size: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Bob	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Woodrow
+========================

@@ -1,0 +1,48 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 1 lab sections<<
+Enter student name: 
+>>Adding student "Peter" in section 0<<
+Enter student name: 
+>>Adding student "Alice" in section 0<<
+Enter student name: 
+>>Adding student "Bob_Lee" in section 0<<
+Enter student name: 
+>>Adding student "Woodrow" in section 0<<
+Enter student name: 
+>>Adding student "Samantha" in section 0<<
+Enter student name: 
+>>Adding student "Anandavenkatakrishnan" in section 0<<
+Enter student name: 
+>>Adding student "Harry" in section 0<<
+Enter student name: 
+>>Adding student "John" in section 0<<
+Enter student name: 
+>>Adding student "Anna" in section 0<<
+Enter student name: 
+>>Adding student "Zehra" in section 0<<
+Enter student name: 
+>>Adding student "Esther" in section 0<<
+Enter student name: 
+>>Adding student "Ali" in section 0<<
+Enter student name: 
+>>Adding student "Mary_Ann" in section 0<<
+Enter student name: 
+>>Adding student "Bob" in section 0<<
+Enter student name: 
+>>Adding student "Aroon_Pichaironnarongsongkram" in section 0<<
+Enter student name: 
+>>Adding student "Ivan" in section 0<<
+Enter student name: 
+>>Adding student "Tatyana" in section 0<<
+Enter student name: 
+>>Adding student "Usman" in section 0<<
+Enter student name: 
+>>Adding student "Pierre" in section 0<<
+Enter student name: 
+>>Adding student "Jose" in section 0<<
+
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Ali	Alice	Anandavenkatakrishnan	Anna	Aroon_Pichaironnarongsongkram	Bob	Bob_Lee	Esther	Harry	Ivan	John	Jose	Mary_Ann	Peter	Pierre	Samantha	Tatyana	Usman	Woodrow	Zehra
+========================

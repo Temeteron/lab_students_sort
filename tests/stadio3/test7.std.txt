@@ -1,0 +1,38 @@
+Enter number of students: Enter maximum lab size: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Esther	Peter	Samantha
+*Section 1, Monday 9:00*
+	Alice	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter first name: Enter second name: Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Alice	Peter	Samantha
+*Section 1, Monday 9:00*
+	Esther	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: Enter first name: Enter second name: Students "John" and "Bob" are in the same section. Swap canceled.
+Enter action: 
+==========LABS==========
+
+*Section 0, Monday 8:00*
+	Alice	Peter	Samantha
+*Section 1, Monday 9:00*
+	Esther	Harry	Jose
+*Section 2, Monday 10:00*
+	Bob	John
+*Section 3, Monday 11:00*
+	Woodrow	Zehra
+========================
+Enter action: 

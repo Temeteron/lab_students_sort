@@ -1,0 +1,11 @@
+10 3
+Peter Alice Bob Woodrow Samantha 
+Harry John Zehra Esther Jose
+PRINT
+REMOVE Bob
+PRINT
+REMOVE Zehra
+PRINT
+REMOVE Harry
+PRINT
+EXIT
